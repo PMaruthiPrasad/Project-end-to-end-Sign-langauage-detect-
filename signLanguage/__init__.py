@@ -4,6 +4,6 @@ import yaml
 import base64
 
 from signLanguage.exception import SignException
-from signLanguage.logger import Logger import logging
+from signLanguage.logger import logging
 
-def read_yaml_file(filename):
+#def read_yaml_file(filename):
